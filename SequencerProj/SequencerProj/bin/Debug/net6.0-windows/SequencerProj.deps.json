@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SequencerProj/1.0.0": {
+        "dependencies": {
+          "SequenceDataModel": "1.0.0"
+        },
+        "runtime": {
+          "SequencerProj.dll": {}
+        }
+      },
+      "SequenceDataModel/1.0.0": {
+        "runtime": {
+          "SequenceDataModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SequencerProj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SequenceDataModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

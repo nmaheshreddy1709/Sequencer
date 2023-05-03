@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "43e938aa-27ed-4615-8b7e-38cbfa3bca6f": {
+      "ProjectGuid": "43e938aa-27ed-4615-8b7e-38cbfa3bca6f",
+      "DisplayName": "SequencerProj",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "f2c5e1e9-f9aa-44ef-a254-616d0d134624": {
+      "ProjectGuid": "f2c5e1e9-f9aa-44ef-a254-616d0d134624",
+      "DisplayName": "SequenceDataModel",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

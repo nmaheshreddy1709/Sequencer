@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Sequence.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Sequence.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Sequence.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\SequenceDataModel\SequenceDataModel.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Sequence.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Model\" />
+    <Folder Include="ViewModel\" />
+  </ItemGroup>
+
+</Project>
