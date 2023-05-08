@@ -7,7 +7,7 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="View\RowInsert.xaml.cs">
+    <Compile Update="View\InterfaceControls\ProcessEditor.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -15,7 +15,7 @@
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\RowInsert.xaml">
+    <Page Update="View\InterfaceControls\ProcessEditor.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

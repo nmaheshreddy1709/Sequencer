@@ -12,16 +12,15 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using SequencerProj.View;
 
-namespace SequencerProj
+namespace SequencerProj.View.InterfaceControls
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for ProcessEditor.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class ProcessEditor : UserControl
     {
-        public MainWindow()
+        public ProcessEditor()
         {
             InitializeComponent();
         }
