@@ -10,3 +10,15 @@ D:\Bharath\Sequencer\SequenceDataModel\obj\Debug\net6.0\SequenceDataModel.csproj
 D:\Bharath\Sequencer\SequenceDataModel\obj\Debug\net6.0\SequenceDataModel.dll
 D:\Bharath\Sequencer\SequenceDataModel\obj\Debug\net6.0\ref\SequenceDataModel.dll
 D:\Bharath\Sequencer\SequenceDataModel\obj\Debug\net6.0\SequenceDataModel.pdb
+D:\Bharath\Sequencer\Sequencer\SequenceDataModel\bin\Debug\net6.0\SequenceDataModel.deps.json
+D:\Bharath\Sequencer\Sequencer\SequenceDataModel\bin\Debug\net6.0\SequenceDataModel.dll
+D:\Bharath\Sequencer\Sequencer\SequenceDataModel\bin\Debug\net6.0\ref\SequenceDataModel.dll
+D:\Bharath\Sequencer\Sequencer\SequenceDataModel\bin\Debug\net6.0\SequenceDataModel.pdb
+D:\Bharath\Sequencer\Sequencer\SequenceDataModel\obj\Debug\net6.0\SequenceDataModel.csproj.AssemblyReference.cache
+D:\Bharath\Sequencer\Sequencer\SequenceDataModel\obj\Debug\net6.0\SequenceDataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bharath\Sequencer\Sequencer\SequenceDataModel\obj\Debug\net6.0\SequenceDataModel.AssemblyInfoInputs.cache
+D:\Bharath\Sequencer\Sequencer\SequenceDataModel\obj\Debug\net6.0\SequenceDataModel.AssemblyInfo.cs
+D:\Bharath\Sequencer\Sequencer\SequenceDataModel\obj\Debug\net6.0\SequenceDataModel.csproj.CoreCompileInputs.cache
+D:\Bharath\Sequencer\Sequencer\SequenceDataModel\obj\Debug\net6.0\SequenceDataModel.dll
+D:\Bharath\Sequencer\Sequencer\SequenceDataModel\obj\Debug\net6.0\ref\SequenceDataModel.dll
+D:\Bharath\Sequencer\Sequencer\SequenceDataModel\obj\Debug\net6.0\SequenceDataModel.pdb

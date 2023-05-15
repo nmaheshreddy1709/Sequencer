@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Bharath\\Sequencer\\SequencerProj\\SequencerProj\\SequencerProj.csproj": {}
+    "D:\\Bharath\\Sequencer\\Sequencer\\SequencerProj\\SequencerProj\\SequencerProj.csproj": {}
   },
   "projects": {
-    "D:\\Bharath\\Sequencer\\SequenceDataModel\\SequenceDataModel.csproj": {
+    "D:\\Bharath\\Sequencer\\Sequencer\\SequenceDataModel\\SequenceDataModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bharath\\Sequencer\\SequenceDataModel\\SequenceDataModel.csproj",
+        "projectUniqueName": "D:\\Bharath\\Sequencer\\Sequencer\\SequenceDataModel\\SequenceDataModel.csproj",
         "projectName": "SequenceDataModel",
-        "projectPath": "D:\\Bharath\\Sequencer\\SequenceDataModel\\SequenceDataModel.csproj",
+        "projectPath": "D:\\Bharath\\Sequencer\\Sequencer\\SequenceDataModel\\SequenceDataModel.csproj",
         "packagesPath": "C:\\Users\\mahes\\.nuget\\packages\\",
-        "outputPath": "D:\\Bharath\\Sequencer\\SequenceDataModel\\obj\\",
+        "outputPath": "D:\\Bharath\\Sequencer\\Sequencer\\SequenceDataModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mahes\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "D:\\Bharath\\Sequencer\\SequencerProj\\SequencerProj\\SequencerProj.csproj": {
+    "D:\\Bharath\\Sequencer\\Sequencer\\SequencerProj\\SequencerProj\\SequencerProj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bharath\\Sequencer\\SequencerProj\\SequencerProj\\SequencerProj.csproj",
+        "projectUniqueName": "D:\\Bharath\\Sequencer\\Sequencer\\SequencerProj\\SequencerProj\\SequencerProj.csproj",
         "projectName": "SequencerProj",
-        "projectPath": "D:\\Bharath\\Sequencer\\SequencerProj\\SequencerProj\\SequencerProj.csproj",
+        "projectPath": "D:\\Bharath\\Sequencer\\Sequencer\\SequencerProj\\SequencerProj\\SequencerProj.csproj",
         "packagesPath": "C:\\Users\\mahes\\.nuget\\packages\\",
-        "outputPath": "D:\\Bharath\\Sequencer\\SequencerProj\\SequencerProj\\obj\\",
+        "outputPath": "D:\\Bharath\\Sequencer\\Sequencer\\SequencerProj\\SequencerProj\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mahes\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "D:\\Bharath\\Sequencer\\SequenceDataModel\\SequenceDataModel.csproj": {
-                "projectPath": "D:\\Bharath\\Sequencer\\SequenceDataModel\\SequenceDataModel.csproj"
+              "D:\\Bharath\\Sequencer\\Sequencer\\SequenceDataModel\\SequenceDataModel.csproj": {
+                "projectPath": "D:\\Bharath\\Sequencer\\Sequencer\\SequenceDataModel\\SequenceDataModel.csproj"
               }
             }
           }

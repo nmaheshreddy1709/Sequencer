@@ -9,13 +9,13 @@ using System.Windows.Input;
 
 namespace SequencerProj.ViewModel
 {
-    public class RowInsertViewModel : INotifyPropertyChanged
+    public class ProcessInsertViewModel : INotifyPropertyChanged
     {
         public event PropertyChangedEventHandler PropertyChanged;
         public ICommand LoadSequence { get; set; }
         public ICommand SaveSequence { get; set; }
         public ICommand PreviewSequence { get; set; }
-        public RowInsertViewModel()
+        public ProcessInsertViewModel()
         {
             LoadSequence = new ViewModelCommand(LoadSequenceMethod);
             SaveSequence = new ViewModelCommand(SaveSequenceMethod);

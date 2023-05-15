@@ -10,12 +10,30 @@
     <Compile Update="View\InterfaceControls\ProcessEditor.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="View\UIConponents\RecipeSeelctionView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\UIConponents\RowInsertView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\UIConponents\RunSaveOperationView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="View\InterfaceControls\ProcessEditor.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\UIConponents\RecipeSeelctionView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\UIConponents\RowInsertView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\UIConponents\RunSaveOperationView.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

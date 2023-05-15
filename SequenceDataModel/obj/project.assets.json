@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bharath\\Sequencer\\SequenceDataModel\\SequenceDataModel.csproj",
+      "projectUniqueName": "D:\\Bharath\\Sequencer\\Sequencer\\SequenceDataModel\\SequenceDataModel.csproj",
       "projectName": "SequenceDataModel",
-      "projectPath": "D:\\Bharath\\Sequencer\\SequenceDataModel\\SequenceDataModel.csproj",
+      "projectPath": "D:\\Bharath\\Sequencer\\Sequencer\\SequenceDataModel\\SequenceDataModel.csproj",
       "packagesPath": "C:\\Users\\mahes\\.nuget\\packages\\",
-      "outputPath": "D:\\Bharath\\Sequencer\\SequenceDataModel\\obj\\",
+      "outputPath": "D:\\Bharath\\Sequencer\\Sequencer\\SequenceDataModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mahes\\AppData\\Roaming\\NuGet\\NuGet.Config",

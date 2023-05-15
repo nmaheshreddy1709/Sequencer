@@ -1,5 +1,4 @@
-﻿using SequencerProj.ViewModel;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace SequencerProj.View
+namespace SequencerProj.View.UIConponents
 {
     /// <summary>
     /// Interaction logic for RowInsertView.xaml
@@ -24,7 +23,6 @@ namespace SequencerProj.View
         public RowInsertView()
         {
             InitializeComponent();
-            this.DataContext = new RowInsertViewModel();
         }
     }
 }

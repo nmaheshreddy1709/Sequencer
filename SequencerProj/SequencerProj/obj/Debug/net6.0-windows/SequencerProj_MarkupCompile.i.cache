@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Bharath\Sequencer\SequencerProj\SequencerProj\obj\Debug\net6.0-windows\
+D:\Bharath\Sequencer\Sequencer\SequencerProj\SequencerProj\obj\Debug\net6.0-windows\
 SequencerProj
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-D:\Bharath\Sequencer\SequencerProj\SequencerProj\App.xaml
-2-959947360
+D:\Bharath\Sequencer\Sequencer\SequencerProj\SequencerProj\App.xaml
+6-2068392989
 1912615048
-6-506481003
-195-673804884
-MainWindow.xaml;View\RowInsert.xaml;
+13-2016500523
+1951983017118
+MainWindow.xaml;View\InterfaceControls\ProcessEditor.xaml;View\UIConponents\ProcessInsertView.xaml;View\UIConponents\RecipeSeelctionView.xaml;View\UIConponents\RowInsertView.xaml;View\UIConponents\RunSaveOperationView.xaml;
 
 False
 

@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="SequencerProj.View.UIConponents.ProcessInsertView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SequencerProj.View.UIConponents"
+             mc:Ignorable="d" 
+             d:DesignHeight="60" d:DesignWidth="100">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="btnLoadprocess" Grid.Row="1" Command="{Binding LoadSequence}" Margin="0,0,0,0" Grid.RowSpan="1" Content="Load Process">
+        </Button>
+        <Button x:Name="btnSaveprocess" Grid.Row="2" Command="{Binding SaveSequence}" Margin="0,0,0,0" Grid.RowSpan="2" Content="Save Process">
+        </Button>
+        <Button x:Name="btnViewprocess" Grid.Row="2" Command="{Binding PreviewSequence}" Margin="0,20,0,-20" Content="View Process"/>
+    </Grid>
+</UserControl>
